@@ -1,0 +1,76 @@
+body {
+  width: 1200px;
+  height: 675px;
+  background-color: #f6f6f6;
+}
+.box {
+  vertical-align: middle;
+  display: inline-block;
+  width: 1010px;
+  height: 503px;
+  border: 1px solid #d7d7d7;
+  background-color: #ffffff;
+  background: white;
+  margin: 100px 350px;
+}
+.picters {
+  display: inline-block;
+  margin: 67px 64px;
+}
+.text {
+  display: inline-block;
+  width: 400px;
+  height: 500px;
+  vertical-align: 34px;
+
+}
+.headphones {
+  display: inline-block;
+  font-size: 23px;
+  font-family: "Arial";
+  color: rgb(47, 47, 47);
+  font-weight: bold;
+  vertical-align: 31px;
+  margin-left: 36px;
+}
+
+.product {
+  display: inline-block;
+  font-size: 15px;
+  font-family: "Arial";
+  color: rgb(47, 47, 47);
+  vertical-align: 36px;
+  margin-left: 36px;
+}
+
+.text-price {
+  display: inline-block;
+  font-size: 15px;
+  font-family: "Arial";
+  color: rgb(47, 47, 47);
+  vertical-align: 28px;
+  margin-left: 36px;
+}
+
+.price {
+  display: inline-block;
+  font-size: 30px;
+  font-family: "Arial";
+  color: rgb(47, 47, 47);
+  vertical-align: 18px;
+  display: block;
+  margin-left: 36px;
+}
+button {
+  display: inline-block;
+  font-size: 18px;
+  font-family: "Arial";
+  color: white; 
+  height: 50px;
+  width: 250px;
+  background-color: #ec744a;
+  border: none;
+  vertical-align: 18px;
+  margin: 36px;
+
+}
