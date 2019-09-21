@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://webfon.at.ua/_ld/0/60_002.jpg);
+}
+.introduction {
+    color: rgb(122, 9, 9)
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.contents {
+    text-decoration: underline;
+    position: fixed;
+    right: 15px;
+    background: #D2B48C;
+}
+.text {
+    font-style: italic;
+}
+span {
+    font-weight: bold;
+}
