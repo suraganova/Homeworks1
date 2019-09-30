@@ -1,0 +1,27 @@
+
+.text-center {
+    color: #333333;
+    font-family: Tahoma;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 70px;
+    text-align: center;
+}
+.block {
+    text-align: center;
+    margin-top: 82px;
+
+}
+
+.text-1 {
+    color: #333333;
+    font-family: Tahoma;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 19px; 
+}
+
+img {
+    height: 72px;
+}
+   
